@@ -23,35 +23,13 @@
      Karrine & Dahlia
 
      WTWY International.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; full-stack developer and Data Science.
-- 🌱 &nbsp; Enthusiast in full-Stack and Artificial Intelligence .
-- ✍️ &nbsp; Watching universe and trying out latest design trends as hobbies/side hustles.
-- 😴 &nbsp; I belive, a perfect nap can be the ultimate solution for any stress. 
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Python | JavaScript | React | C++ |MERN  
-- 🌐 &nbsp; Full-Stack | React | HTML | CSS | JavaScript | Bootstrap | Sass | Tailwind 
-- 🛢 &nbsp; MySQL | Firebase | Postman
-- 🔧 &nbsp; Google Collab | Jupyter | Visual Studio code  | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kumawatlalit912&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
+<h3> When i solve this; </h3>
 
-<br>
+-  &nbsp; Finding the most popular New York streets,  
+-  &nbsp; Classification according to human traffic,
+-  &nbsp; Crowd and time analysis,
+-  &nbsp; Finding and deducing the results.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumawatlalit912&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="lalit's Github Stats">
-
-</br>
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumawatlalit912&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/kumawatlalit912/github-readme-stats)
-
-
-
-
-<h3> 🤝🏻 Connect with Me </h3>
 
