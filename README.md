@@ -1,6 +1,6 @@
 <h1> Hey there! I'm Lalit 👋 </h1>
 <h2> A Passionate Software Developer From India 🇮🇳 </h2>
-<img align="right" alt="GIF" src="[https://i.gifer.com/origin/68/68f87b37ccfde22769262c7cdc7b2b0b_w200.gi](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTU2Y2UwOTU5MzY1ZGY1NjA1YzM4YzMxNzg1ZDEwMGZhMzUwZDYxMiZjdD1n/QOvLuiZZObfch6Q5iY/giphy.gif)" width="500"/>
+<img align="right" alt="GIF" src="https://c.tenor.com/rUdzOgSKsEcAAAAC/tenor.gif" width="500"/>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning React and React Native for Development
