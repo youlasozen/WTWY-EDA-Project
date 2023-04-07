@@ -27,7 +27,7 @@
 
 <h3> When i solve this; </h3>
 
--  &nbsp; I found a huge dataset about turnstile in <a href="(https://new.mta.info/open-data)">this</a> link!,
+-  &nbsp; I found a huge dataset about turnstile in <a href="https://new.mta.info/open-data">this</a> link!,
 -  &nbsp; Finding the most popular New York streets,  
 -  &nbsp; Classification according to human traffic,
 -  &nbsp; Crowd and time analysis,
