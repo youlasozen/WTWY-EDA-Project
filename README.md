@@ -1,6 +1,6 @@
 <h1> Hey there! I'm Ulas 👋 </h1>
 <h2> This is my first EDA project 😎 </h2>
-<img align="right" alt="GIF" src="https://c.tenor.com/rUdzOgSKsEcAAAAC/tenor.gif" width="500"/>
+<img align="middle" alt="GIF" src="https://c.tenor.com/rUdzOgSKsEcAAAAC/tenor.gif" width="500"/>
 <h3> 👨🏻‍💻 About The Project </h3>
 
 - 🔭 &nbsp; We received an e-mail from Karrine & Dahlia.
