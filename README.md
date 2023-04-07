@@ -27,9 +27,15 @@
 
 <h3> When i solve this; </h3>
 
+-  &nbsp; I found a huge dataset about turnstile in <a href="(https://new.mta.info/open-data)">this</a> link!,
 -  &nbsp; Finding the most popular New York streets,  
 -  &nbsp; Classification according to human traffic,
 -  &nbsp; Crowd and time analysis,
 -  &nbsp; Finding and deducing the results.
 
+<h4> and also i followed this approach; </h4>
 
+-  &nbsp; Since it will be held in the summer, it was decided that May 2022 would be the most reasonable,  
+-  &nbsp; Only the year 2022 was looked at, as data from the time of the corona virus were thought to distort the accuracy,
+-  &nbsp; It was decided to find the 7 most crowded stations,
+-  &nbsp; Data collected from each turnstile was processed based on hour, station and human traffic.
